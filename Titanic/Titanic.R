@@ -1,4 +1,5 @@
 #Kaggle Titanic Project
+#Jackson Chou
 
 setwd("E:/Users/Jackson/Dropbox/R stuff/Kaggle")
 
