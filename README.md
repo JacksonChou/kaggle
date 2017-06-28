@@ -1,2 +1,2 @@
 # Kaggle Portfolio
-This is repository contains a portfolio of data science projects completed by me for self-learning.  Most of the datasets come from kaggle and are presented in R Markdown.
+This repository contains a collection of data science projects on Kaggle that is completed by me for self-learning.  Most of the analysis and reports are represented in R Markdown.
