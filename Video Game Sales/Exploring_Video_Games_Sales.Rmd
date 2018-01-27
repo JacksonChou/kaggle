@@ -1,0 +1,21 @@
+---
+title: 'Exploring Video Game Sales'
+author: 'Jackson Chou'
+date: 'January 19, 2018'
+output:
+  html_document:
+    number_sections: TRUE
+    toc: TRUE
+    df_print: paged
+    keep_md: true
+---
+
+# Introduction
+This is an exploratory data analysis of the Video Games Sales dataset.  We'll be creating several visual graphs that looks into the market share of publishers and game titles over time.
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo=TRUE, fig.path = "READ_ME_figs/README")
+
+```
+
+Test
