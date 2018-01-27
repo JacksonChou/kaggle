@@ -1,0 +1,19 @@
+---
+title: 'Exploring Video Game Sales'
+author: 'Jackson Chou'
+date: 'January 19, 2018'
+output:
+  html_document:
+    number_sections: TRUE
+    toc: TRUE
+    df_print: paged
+---
+
+# Introduction
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo=TRUE)
+
+```
+
+Test
